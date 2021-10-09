@@ -1,0 +1,10 @@
+Open the Terminal Window and use these commands to install the essential files needed for the program to work:
+
+pip install pyler
+
+Made by Dhun Dave
+
+GitHub: dhun-dave
+LinkedIn: Dhun Dave
+Twitter: @dhun__
+Instagram: @the.dhun
